@@ -4,6 +4,11 @@ body {
   margin: auto;
 }
 
+span {
+  color: white;
+  
+}
+
 header {
     background-color: blue;
     height: 100px;
