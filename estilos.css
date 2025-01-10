@@ -19,6 +19,7 @@ background-color: green;
 height: 500px; 
 width: 150px;
 margin: 15px 15px 15px 0px;
+float: left;
 }
 
 aside { 
@@ -26,6 +27,7 @@ background-color: green;
 height: 500px; 
 width: 150px;
 margin: 15px 0px 15px 15px;
+float: right;
 }
 
 section {
