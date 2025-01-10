@@ -1,36 +1,39 @@
 body {
-  background-color: black;
-  width: 960px;
-  margin: auto;
+background-color: black;
+width: 960px;
+margin: auto;
 }
 
 span {
-  color: white;
+color: white;
 
 }
 
 header {
-    background-color: blue;
-    height: 100px;
+background-color: blue;
+height: 100px;
 }
 
 nav {
-   background-color: green;
-    height: 500px; 
-    width: 150px;
+background-color: green;
+height: 500px; 
+width: 150px;
+margin: 15px,15px,15px,0px;
 }
 
-aside {
-background-color: red;
-height: 100px;
-width: 50px;
+aside { 
+background-color: green;
+height: 500px; 
+width: 150px;
+margin: 15px,0px,15px,15px;
 }
+
 section {
-    background-color: gray;
-    height: 100px;
+  
 }
+
 
 footer {
-    background-color: yellow;
-    height: 100px;
+background-color: yellow;
+height: 100px;
 }
