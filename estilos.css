@@ -1,5 +1,5 @@
 body {
-width: 830px;
+width: 930px;
 background-color: black;
 margin: auto;
 }
@@ -12,7 +12,7 @@ color: white;
 
 header {
 background-color: blue;
-width: 830px;
+width: 930px;
 height: 100px;
 }
 
@@ -44,7 +44,7 @@ float: left;
 footer {
 background-color: yellow;
 height: 50px;
-width: 830px;
+width: 930px;
 margin: 0px;
 float: left;
 }
