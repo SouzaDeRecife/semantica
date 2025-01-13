@@ -1,5 +1,5 @@
 body {
-width: 860px;
+width: 830px;
 background-color: black;
 margin: auto;
 }
@@ -43,7 +43,7 @@ float: left;
 footer {
 background-color: yellow;
 height: 50px;
-width: 860px;
+width: 830px;
 margin: 0px;
 float: left;
 }
