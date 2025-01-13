@@ -1,5 +1,5 @@
 body {
-width: 960px;
+width: 860px;
 background-color: black;
 margin: auto;
 }
@@ -34,7 +34,7 @@ float: right;
 section {
 background-color: gray;
 height: 500px;
-width: 630px;
+width: 530px;
 margin: 15px 0px 15px 0px;
 float: left;
 }
