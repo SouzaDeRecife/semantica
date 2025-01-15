@@ -1,6 +1,5 @@
 body {
-width: 930px;
-height: 500vh;
+width: 530px;
 background-color: black;
 margin: auto;
 }
@@ -13,7 +12,7 @@ color: white;
 
 header {
 background-color: blue;
-width: 930px;
+width: 530px;
 height: 100px;
 }
 
@@ -36,7 +35,7 @@ float: right;
 section {
 background-color: gray;
 height: 600px;
-width: 600px;
+width: 500px;
 margin: 15px 0px 15px 0px;
 float: left;
 }
@@ -45,7 +44,7 @@ float: left;
 footer {
 background-color: yellow;
 height: 50px;
-width: 930px;
+width: 530px;
 margin: 0px;
 float: left;
 }
